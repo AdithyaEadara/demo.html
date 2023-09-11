@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Semantic Tags</title>
+    </head>
+    <body>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.<q>Veritatis quidem blanditiis iusto</q> , repellat laborum sit deleniti. Harum minima est praesentium.</p>
+        <main>
+            <div>
+                <strong>Adithya Eadara</strong>
+                <address>5-6-21/1,Nagarjuna colony,Sattenapalli,522403</address>
+                <hr/>
+                <footer>adithya eadara is trying something productive</footer>
+            </div>
+        </main>
+        <p>;Lorem ipsum dolor sit amet.</p>
+        <bdo dir="rtl">Lorem ipsum dolor sit amet</bdo>
+        <blockquote cite="https://blog.hubspot.com/sales/famous-quotes">If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. -Oprah Winfrey</blockquote>
+        <marquee>Semanctic Tags</marquee>
+    </body>
+</html>
